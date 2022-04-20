@@ -42,3 +42,8 @@
 	path = yezyilomo/odoo-rest-api
 	url = git@github.com:yezyilomo/odoo-rest-api.git
 	branch = master
+
+[submodule "OCA/server-backend"]
+	path = OCA/server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 12.0
