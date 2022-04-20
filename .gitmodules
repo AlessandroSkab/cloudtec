@@ -37,3 +37,8 @@
 	path = OCA/server-auth
 	url = git@github.com:OCA/server-auth.git
 	branch = 14.0
+
+[submodule "yezyilomo/odoo-rest-api"]
+	path = yezyilomo/odoo-rest-api
+	url = git@github.com:yezyilomo/odoo-rest-api.git
+	branch = master
