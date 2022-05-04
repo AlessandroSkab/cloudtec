@@ -62,3 +62,8 @@
 	path = FedericoMedici/abc_iap_test_my_library
 	url = git@github.com:FedericoMedici/abc_iap_test_my_library.git
 	branch = main
+
+[submodule "FedericoMedici/abc_test_iap_isbn_client"]
+	path = FedericoMedici/abc_test_iap_isbn_client
+	url = git@github.com:FedericoMedici/abc_test_iap_isbn_client.git
+	branch = main
